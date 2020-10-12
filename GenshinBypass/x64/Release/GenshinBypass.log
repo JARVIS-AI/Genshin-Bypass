@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  injector.cpp
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(33,47): warning C4244: "+=": Konvertierung von "DWORD64" in "DWORD", möglicher Datenverlust
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(157,12): warning C4477: "printf": Die Formatzeichenfolge "%llX" erfordert ein Argument vom Typ "unsigned __int64", das variadic-Argument "1" weist aber den Typ "PVOID" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(192,12): warning C4477: "printf": Die Formatzeichenfolge "%llX" erfordert ein Argument vom Typ "unsigned __int64", das variadic-Argument "1" weist aber den Typ "void *" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(234,12): warning C4477: "printf": Die Formatzeichenfolge "%llX" erfordert ein Argument vom Typ "unsigned __int64", das variadic-Argument "1" weist aber den Typ "void *" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(291,12): warning C4477: "printf": Die Formatzeichenfolge "%X" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "const HANDLE" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(291,12): warning C4313: "printf": "%X" in der Formatzeichenfolge steht mit dem Argument "1" vom Typ "const HANDLE" in Konflikt.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(292,12): warning C4477: "printf": Die Formatzeichenfolge "%llX" erfordert ein Argument vom Typ "unsigned __int64", das variadic-Argument "1" weist aber den Typ "void *" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\injector.cpp(292,12): warning C4477: "printf": Die Formatzeichenfolge "%llX" erfordert ein Argument vom Typ "unsigned __int64", das variadic-Argument "2" weist aber den Typ "void *" auf.
+  main.cpp
+  memory_utils.cpp
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(19,12): warning C4477: "printf": Die Formatzeichenfolge "%X" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "const HANDLE" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(19,12): warning C4313: "printf": "%X" in der Formatzeichenfolge steht mit dem Argument "1" vom Typ "const HANDLE" in Konflikt.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(22,12): warning C4477: "printf": Die Formatzeichenfolge "%X" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "const HANDLE" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(22,12): warning C4313: "printf": "%X" in der Formatzeichenfolge steht mit dem Argument "1" vom Typ "const HANDLE" in Konflikt.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(26,16): warning C4477: "printf": Die Formatzeichenfolge "%X" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "const HANDLE" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(26,16): warning C4313: "printf": "%X" in der Formatzeichenfolge steht mit dem Argument "1" vom Typ "const HANDLE" in Konflikt.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(31,12): warning C4477: "printf": Die Formatzeichenfolge "%X" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "const HANDLE" auf.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(31,12): warning C4313: "printf": "%X" in der Formatzeichenfolge steht mit dem Argument "1" vom Typ "const HANDLE" in Konflikt.
+C:\Users\Nico\GitHub\Genshin-Bypass\GenshinBypass\memory_utils.cpp(44,12): warning C4477: "printf": Die Formatzeichenfolge "%llX" erfordert ein Argument vom Typ "unsigned __int64", das variadic-Argument "1" weist aber den Typ "const HMODULE" auf.
+  win.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 543 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  GenshinBypass.vcxproj -> C:\Users\Nico\GitHub\Releases\GenshinImpactBypass\GenshinBypass.exe

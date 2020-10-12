@@ -1,0 +1,8 @@
+C:\Users\Nico\GitHub\Releases\GenshinImpactBypass\netcoreapp3.1\Genslich.deps.json
+C:\Users\Nico\GitHub\Releases\GenshinImpactBypass\netcoreapp3.1\Genslich.dll
+C:\Users\Nico\GitHub\Releases\GenshinImpactBypass\netcoreapp3.1\Genslich.pdb
+C:\Users\Nico\GitHub\Genshin-Bypass\Genslich\obj\Debug\netcoreapp3.1\Genslich.AssemblyInfoInputs.cache
+C:\Users\Nico\GitHub\Genshin-Bypass\Genslich\obj\Debug\netcoreapp3.1\Genslich.AssemblyInfo.cs
+C:\Users\Nico\GitHub\Genshin-Bypass\Genslich\obj\Debug\netcoreapp3.1\Genslich.csproj.CoreCompileInputs.cache
+C:\Users\Nico\GitHub\Genshin-Bypass\Genslich\obj\Debug\netcoreapp3.1\Genslich.dll
+C:\Users\Nico\GitHub\Genshin-Bypass\Genslich\obj\Debug\netcoreapp3.1\Genslich.pdb

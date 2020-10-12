@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.opendb
+.vs/GenshinBypass/v16/Browse.VC.db
+.vs/GenshinBypass/v16/Browse.VC.db-shm
+.vs/GenshinBypass/v16/Browse.VC.db-wal

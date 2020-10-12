@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Genslich": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Nico\\GitHub\\Releases\\GenshinImpactBypass\\GenshinBypass.exe",
+      "commandLineArgs": "Genslich.dll",
+      "nativeDebugging": true
+    }
+  }
+}
