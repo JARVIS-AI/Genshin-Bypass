@@ -8,7 +8,8 @@ namespace Genslich
         static Genslich()
         {
             ConsoleHelper.CreateConsole();
-            Console.WriteLine("DLL MAIN (Only DLL_PROCESS_ATTACH) :D");
+            Console.WriteLine("DLL MAIN");
+            
         }
     }
 }
